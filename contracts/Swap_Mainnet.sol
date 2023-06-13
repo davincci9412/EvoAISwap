@@ -1,6 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2021-06-07
-*/
 
 // SPDX-License-Identifier: Unlicensed
 
