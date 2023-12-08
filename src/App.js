@@ -5,9 +5,8 @@ import { useState } from 'react'
 import contractAbi from './abi';
 import evotAbi from './evotAbi';
 
-
 function App() {
-  const contractAddress = '0xD470D600A255DBa6aCc6F2259B044aCD5a51E947';
+  const contractAddress = '0xD470D600A255DBa6aCc6F2259B044aCD5a51E947'; //testnet adress
   const EVOAIcontractAddress = '0xF2a72e8cB7211d8401c410ABeeb3C79A4f5F833D';
   // const [connected, setconnected] = useState(0);
   const [walletAddress, setwalletAddress] = useState(0);
